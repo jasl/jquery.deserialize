@@ -1,0 +1,29 @@
+{
+    "name": "jquery.deserialize",
+    "title": "jQuery Deserialize",
+    "description": "deserialize query strings into form.",
+    "version": "1.0.0",
+    "keywords": [
+        "jQuery",
+        "forms",
+        "querystring",
+        "deserialize",
+        "serialize"
+    ],
+    "author": {
+        "name": "Jasl",
+        "url": "https://github.com/jasl"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "bugs": "https://github.com/jasl/jquery.deserialize/issues",
+    "homepage": "https://github.com/jasl/jquery.deserialize",
+    "download": "https://github.com/jasl/jquery.deserialize/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.4"
+    }
+}
